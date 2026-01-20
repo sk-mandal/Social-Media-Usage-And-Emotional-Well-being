@@ -1,5 +1,4 @@
-# Capstone Project – 3  
-## Social Media Usage and Emotional Well-being
+ ## Social Media Usage and Emotional Well-being
 
 ---
 
@@ -218,3 +217,4 @@ This project demonstrates a complete end-to-end workflow for predicting emotiona
 The **Tuned Random Forest model** emerged as the most accurate and robust solution, making it the ideal choice for future deployment or further research.
 
 ---
+
